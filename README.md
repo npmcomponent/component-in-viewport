@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [component/in-viewport](http://github.com/component/in-viewport). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/component-in-viewport`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # In Viewport
 
 Check if any part of an element is in the viewport.

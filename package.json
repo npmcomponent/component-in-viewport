@@ -1,0 +1,8 @@
+{
+  "name": "component-in-viewport",
+  "description": "Check if an element is in the viewport",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
